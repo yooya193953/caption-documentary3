@@ -1,0 +1,32 @@
+COMPREHENSIVE MULTI-SESSION JSONL EXTRACTION REPORT
+================================================================================
+
+Processed 6 session files
+Total unique files: 15
+Successfully saved: 15
+Incomplete/fragmented: 0
+
+Extraction Stats:
+  Writes: 22
+  Reads: 13
+  Edits: 17
+  Partial reads: 14
+
+--------------------------------------------------------------------------------
+ALL FILES (sorted by size)
+--------------------------------------------------------------------------------
+  40,660 bytes  agent-38ccb57b.jsonl
+  14,186 bytes  extract_session.py
+  14,006 bytes  extract_session_v2.py
+  13,936 bytes  extract_all_sessions.py
+  11,763 bytes  restore_project_v2.py
+   9,540 bytes  restore_project.py
+   7,685 bytes  extract_files.py
+   6,227 bytes  src/pages/DraftPreview.tsx
+   6,052 bytes  RESTORATION_REPORT.md
+   3,043 bytes  src/App.tsx
+   2,315 bytes  src/pages/admin/ArticleForm.tsx
+   1,697 bytes  restore_files.py
+   1,441 bytes  tmp/extract_files.py
+     291 bytes  .env
+      21 bytes  README.md

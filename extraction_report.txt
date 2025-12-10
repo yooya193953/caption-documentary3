@@ -1,0 +1,25 @@
+COMPREHENSIVE JSONL SESSION EXTRACTION REPORT
+================================================================================
+
+Session file: /tmp/cc-agent/60989477/.claude/projects/-tmp-cc-agent-60989477-project/9deab743-7a47-4f7f-8ddd-4c4f31d3ed05.jsonl
+File size: 1,026,907 bytes (1002.8 KB)
+Total lines: 227
+Total unique files: 6
+Successfully saved: 6
+Incomplete/fragmented: 0
+
+Extraction Stats:
+  Writes: 9
+  Reads: 3
+  Edits: 16
+  Partial reads: 12
+
+--------------------------------------------------------------------------------
+ALL FILES (sorted by size)
+--------------------------------------------------------------------------------
+   6,227 bytes  src/pages/DraftPreview.tsx
+   2,703 bytes  src/App.tsx
+   1,697 bytes  restore_files.py
+   1,453 bytes  extract_files.py
+   1,441 bytes  tmp/extract_files.py
+   1,255 bytes  src/pages/admin/ArticleForm.tsx
