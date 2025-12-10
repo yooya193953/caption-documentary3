@@ -1,0 +1,8 @@
+{
+  "name": "cms-project",
+  "version": "1.0.0",
+  "type": "react-typescript",
+  "framework": "vite",
+  "styling": "tailwindcss",
+  "database": "supabase"
+}
